@@ -33,7 +33,7 @@ namespace proyectomvc.Controllers
             {
                 _context.Add(objFormulario);
                 _context.SaveChanges();
-                objFormulario.Respuesta = "Registro exitoso, Gracias estamos en contacto";
+                objFormulario.Respuesta = "Registro exitoso";
             }
             return View("index", objFormulario);
         }
