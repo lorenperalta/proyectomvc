@@ -1,0 +1,31 @@
+@model proyectomvc.Models.Calculadora
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Calculadora</h1><br>
+    <form asp-controller="Calculadora" asp-action="Calcular">
+        <div>
+            Primer digito: <input asp-for="Num1">
+        </div><br>
+        <div>
+            Segundo digito: <input asp-for="Num2">
+        </div><br>
+        <div>
+            <Select asp-for="Operacion">
+                <option value="suma">Suma</option>
+                <option value="resta">Resta</option>
+                <option value="division">Division</option>
+                <option value="multiplicacion">Multiplicacion</option>
+            </Select>
+        </div><br>
+        <div>
+            <input type="submit" value="Calcular">
+        </div><br>
+    </form>
+
+    <td>@Html.DisplayNameFor(model => model.Res)</td>
+    <td>@Html.DisplayTextFor(model => model.Res)</td>
+</div>
