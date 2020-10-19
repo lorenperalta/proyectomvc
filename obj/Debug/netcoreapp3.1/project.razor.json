@@ -14397,6 +14397,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\PC_\\Desktop\\usmp\\2020 - 2\\programacion 1\\laboratorio\\proyectomvc\\Views\\Formulario\\Index.cshtml",
+      "TargetPath": "Views\\Formulario\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\PC_\\Desktop\\usmp\\2020 - 2\\programacion 1\\laboratorio\\proyectomvc\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
