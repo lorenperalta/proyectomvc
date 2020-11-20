@@ -12,6 +12,6 @@ namespace proyectomvc.Data
         {
         }
 
-         public DbSet<proyectomvc.Models.Formulario> Contactos { get; set; }
+         public DbSet<proyectomvc.Models.Formulario> Registros { get; set; }
     }
 }

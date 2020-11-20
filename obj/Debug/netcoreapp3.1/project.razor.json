@@ -14407,6 +14407,16 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\PC_\\Desktop\\usmp\\2020 - 2\\programacion 1\\laboratorio\\proyectomvc\\Views\\Formulario\\Crear.cshtml",
+      "TargetPath": "Views\\Formulario\\Crear.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\PC_\\Desktop\\usmp\\2020 - 2\\programacion 1\\laboratorio\\proyectomvc\\Views\\Formulario\\Editar.cshtml",
+      "TargetPath": "Views\\Formulario\\Editar.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\PC_\\Desktop\\usmp\\2020 - 2\\programacion 1\\laboratorio\\proyectomvc\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"
