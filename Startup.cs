@@ -28,8 +28,8 @@ namespace proyectomvc
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddDbContext<DatabaseContext>(options =>
-            options.UseNpgsql(
-            Configuration.GetConnectionString("postgress-db")));
+                options.UseNpgsql(
+                    Configuration.GetConnectionString("postgress-db")));
             services.AddControllersWithViews();
         }
 

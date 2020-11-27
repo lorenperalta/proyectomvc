@@ -6,9 +6,11 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using Microsoft.AspNetCore.Mvc.Rendering;
+
 using proyectomvc.Models;
 using proyectomvc.Data;
 using Microsoft.EntityFrameworkCore;
+
 
 namespace proyectomvc.Controllers
 {

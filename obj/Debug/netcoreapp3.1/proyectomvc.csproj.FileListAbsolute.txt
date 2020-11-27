@@ -56,7 +56,7 @@ C:\Users\PC_\Desktop\usmp\2020 - 2\programacion 1\laboratorio\proyectomvc\bin\De
 C:\Users\PC_\Desktop\usmp\2020 - 2\programacion 1\laboratorio\proyectomvc\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
 C:\Users\PC_\Desktop\usmp\2020 - 2\programacion 1\laboratorio\proyectomvc\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
 C:\Users\PC_\Desktop\usmp\2020 - 2\programacion 1\laboratorio\proyectomvc\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
-C:\Users\PC_\Desktop\usmp\2020 - 2\programacion 1\laboratorio\proyectomvc\obj\Debug\netcoreapp3.1\scopedcss\bundle\proyectomvc.styles.css
 C:\Users\PC_\Desktop\usmp\2020 - 2\programacion 1\laboratorio\proyectomvc\obj\Debug\netcoreapp3.1\Razor\Views\Formulario\Crear.cshtml.g.cs
 C:\Users\PC_\Desktop\usmp\2020 - 2\programacion 1\laboratorio\proyectomvc\obj\Debug\netcoreapp3.1\Razor\Views\Formulario\Index.cshtml.g.cs
 C:\Users\PC_\Desktop\usmp\2020 - 2\programacion 1\laboratorio\proyectomvc\obj\Debug\netcoreapp3.1\Razor\Views\Formulario\Editar.cshtml.g.cs
+C:\Users\PC_\Desktop\usmp\2020 - 2\programacion 1\laboratorio\proyectomvc\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
